@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+    <header
+            creationtool="Aligner-Matecat-Cattool"
+            creationtoolversion="2.16.21"
+	    o-tmf="Matecat"
+            creationid="Matecat-Aligner"
+            datatype="plaintext"
+            segtype="sentence"
+            adminlang="en-US"
+            srclang="en-GB"/>
+<body>  <tu tuid = "9545545-9545595" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545545-9545595</prop><tuv xml:lang = "en-GB">
+				<seg>In focus: Renewable energy in Europe</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>A fondo: las energías renovables en Europa</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545546-9545596" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545546-9545596</prop><tuv xml:lang = "en-GB">
+				<seg>Renewable energy is the collective name for energy, that is produced using the earth’s natural resources, like sunlight, wind, water resources (rivers, tides and waves), heat from the earth’s surface, or biomass.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Llamamos energías renovables al conjunto de energías que se generan utilizando los recursos naturales de la Tierra: la luz solar, el viento, los recursos hídricos (ríos, mareas y olas), el calor de la superficie terrestre o la biomasa.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545547-9545597" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545547-9545597</prop><tuv xml:lang = "en-GB">
+				<seg>The process, by which these renewable resources are converted into energy, emits no net greenhouse gases, which is why renewable energy is also referred to as ‘clean energy’.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>El proceso mediante el cual estos recursos renovables se convierten en energía no produce emisiones netas de gases de efecto invernadero. De ahí que también se hable de &quot;energías limpias&quot;.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545548-9545599" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545548-9545599</prop><tuv xml:lang = "en-GB">
+				<seg>It can be used to directly produce electricity, or heat for our homes and industries.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Las energías renovables pueden utilizarse para producir directamente electricidad o calor destinados a nuestras casas e industrias.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545549-9545600" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545549-9545600</prop><tuv xml:lang = "en-GB">
+				<seg>It can also be used for biogases in heat or electricity production, and for biofuels in the transport sector.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Pero también pueden servir para generar biogases, utilizados en la producción de calor o electricidad, y biocarburantes, empleados en los transportes.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545550-9545601" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545550-9545601</prop><tuv xml:lang = "en-GB">
+				<seg>Renewable energy will play a fundamental role in achieving the EU’s energy and climate objectives.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Las energías renovables desempeñarán un papel crucial a la hora de alcanzar los objetivos energéticos y climáticos de la UE.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545551-9545602" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545551-9545602</prop><tuv xml:lang = "en-GB">
+				<seg>Not only is it abundantly available within the EU, but it is also cost-competitive with fossil fuels.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>No solo están disponibles con abundancia en la UE, sino que, además, compiten en costes con los combustibles fósiles.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545552-9545603" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545552-9545603</prop><tuv xml:lang = "en-GB">
+				<seg>As such, it can help make our energy systems more affordable and reduce the EU’s dependency on imported fossil fuels.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>De este modo, pueden contribuir a que nuestros sistemas energéticos sean más asequibles y reducir la dependencia de la UE respecto de la importación de combustibles fósiles.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545553-9545604" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545553-9545604</prop><tuv xml:lang = "en-GB">
+				<seg>It also has the potential to provide a range of new jobs, create new industrial opportunities and contribute to economic growth.  </seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Además, las renovables tienen potencial para crear toda una serie de nuevos puestos de trabajo, abrir nuevas oportunidades industriales y contribuir al crecimiento económico.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545554-9545605" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545554-9545605</prop><tuv xml:lang = "en-GB">
+				<seg>Renewable energy progress over time</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>La evolución de las energías renovables</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545555-9545606" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545555-9545606</prop><tuv xml:lang = "en-GB">
+				<seg>As a technology, renewable energy is not new, and it has a strong foothold in Europe.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Como tecnología, la energía renovable no es algo nuevo, sino que tiene fuerte arraigo en Europa.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545556-9545607" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545556-9545607</prop><tuv xml:lang = "en-GB">
+				<seg>Already in 1991, Denmark installed the world’s first offshore wind farm “Vindeby” which included 11 wind turbines.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Ya en 1991, Dinamarca creaba el primer parque eólico marino (&quot;Vindeby&quot;), compuesto por 11 aerogeneradores.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545557-9545608" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545557-9545608</prop><tuv xml:lang = "en-GB">
+				<seg>Germany introduced, in the same year, Europe’s first ‘feed-in-tariff’ for renewables; a policy mechanism designed to accelerate investment in renewable energy technologies.  </seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Ese mismo año, Alemania introdujo la primera &quot;tarifa abierta&quot; para las renovables en Europa, mecanismo destinado a acelerar la inversión en estas tecnologías.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545558-9545609" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545558-9545609</prop><tuv xml:lang = "en-GB">
+				<seg>By 2000, Europe accounted for more than 70% of all wind power installed in the world and 20% of  global solar photovoltaics installations.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En el año 2000, Europa ya representaba más del 70% del total de la energía eólica mundial y el 20% de las instalaciones solares fotovoltaicas.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545559-9545610" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545559-9545610</prop><tuv xml:lang = "en-GB">
+				<seg>In 2000 the world’s first large-scale wind farm ‘Horns Rev’ saw the light – also this time in Denmark. It used many technologies that later became industry standards for offshore wind.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Ese mismo año, también en Dinamarca, hacía su aparición el primer parque eólico a gran escala, &quot;Horns Rev&quot;, en el que se empleaban numerosas tecnologías que posteriormente se convertirían en normas del sector.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545561-9545611" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545561-9545611</prop><tuv xml:lang = "en-GB">
+				<seg>Europe also became the largest market for solar photovoltaics by covering more than 70% of the market by 2008.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En 2008, Europa había pasado a ser el mayor mercado mundial de energía solar fotovoltaica, con más del 70% del mercado.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545562-9545612" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545562-9545612</prop><tuv xml:lang = "en-GB">
+				<seg>In the same year, the Olmedilla Photovoltaic park in Spain – a 60 megawatt power plant, making it the largest in the world – generated enough solar energy to power 40 000 homes per year.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Ese año, en España, el parque fotovoltaico de Olmella (una central eléctrica de 60 megavatios, la mayor del mundo) generaba energía solar suficiente para abastecer a 40.000 viviendas al año.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545563-9545613" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545563-9545613</prop><tuv xml:lang = "en-GB">
+				<seg>As the rest of the world is increasingly using and producing renewables, Europe has continued to be a frontrunner.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>A medida que en el resto del mundo aumentaba la producción y utilización de energías renovables, Europa mantenía su liderazgo.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545564-9545614" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545564-9545614</prop><tuv xml:lang = "en-GB">
+				<seg>In July 2019, Portugal achieved the lowest cost of a solar photovoltaics park worldwide – a record which still holds today.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En julio de 2019, Portugal creó el parque de energía solar fotovoltaica con menor coste del mundo... récord que mantiene hasta la fecha.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545565-9545615" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545565-9545615</prop><tuv xml:lang = "en-GB">
+				<seg>Across the EU, the share of renewable energy in gross final energy consumption has increased over recent years from 9.6% in 2004 to 18.9% in 2018.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En los últimos años, la cuota de las energías renovables en el consumo final bruto ha aumentado en toda la UE: del 9,6% en 2004 al 18,9% en 2018.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545566-9545616" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545566-9545616</prop><tuv xml:lang = "en-GB">
+				<seg>The five EU countries with the largest share of their energy coming from renewable energy sources (based on 2018 data from Eurostat ) are Sweden, Finland, Latvia, Denmark and Austria.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Los cinco países miembros con la mayor cuota energética procedente de fuentes renovables son Suecia, Finlandia, Letonia, Dinamarca y Austria ( datos de Eurostat para 2018 ).</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545567-9545617" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545567-9545617</prop><tuv xml:lang = "en-GB">
+				<seg>Moreover, according to the EU’s latest energy statistical datasheets , renewables are currently the leading source of electricity generation in the EU.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Además, y según las últimas fichas estadísticas sobre energía de la UE, las renovables son actualmente la principal fuente de generación de electricidad en la Unión.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545568-9545618" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545568-9545618</prop><tuv xml:lang = "en-GB">
+				<seg>EU law on renewable energy</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Legislación de la UE sobre energías renovables</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545569-9545619" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545569-9545619</prop><tuv xml:lang = "en-GB">
+				<seg>The EU was an early mover on renewable energy and has made significant efforts, through EU law, to better integrate renewable sources in European energy systems.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>La UE, pionera en energías renovables, ha hecho en su legislación considerables esfuerzos por integrar mejor las fuentes renovables en los sistemas energéticos europeos.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545570-9545620" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545570-9545620</prop><tuv xml:lang = "en-GB">
+				<seg>In striving for global leadership in renewables, the EU has set a clear path for others to follow.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En su afán de ser líder mundial en este campo, la UE ha marcado un camino claro que otros pueden seguir.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545571-9545621" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545571-9545621</prop><tuv xml:lang = "en-GB">
+				<seg>When the Renewable Energy Directive (2009/28/EC) established national targets for EU member countries, it was seen as a “novelty act”.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Cuando la Directiva sobre energías renovables (2009/28/CE) fijó objetivos nacionales para los países miembros, la medida se consideró &quot;inédita&quot;.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545572-9545622" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545572-9545622</prop><tuv xml:lang = "en-GB">
+				<seg>Today, 173 countries in the world have such targets.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Hoy en día son 173 los países del mundo que tienen objetivos semejantes.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545573-9545623" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545573-9545623</prop><tuv xml:lang = "en-GB">
+				<seg>The 2009 directive was revised in December 2018, and adopted as part of the Clean energy for all Europeans package .  </seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En diciembre de 2018, la Directiva de 2009 se revisó e integró en un paquete de medidas sobre energía limpia para todos los europeos .</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545574-9545624" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545574-9545624</prop><tuv xml:lang = "en-GB">
+				<seg>It includes a new binding renewable energy target for 2030 of at least 32%, with a clause for a possible upwards revision by 2023.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Se estableció el objetivo obligatorio de alcanzar en 2030 un mínimo del 32% de energías renovables, con una cláusula que contemplaba una posible revisión al alza antes de 2023.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545575-9545625" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545575-9545625</prop><tuv xml:lang = "en-GB">
+				<seg>Driving the ambition further, the European Green Deal outlines a number of initiatives across all policy sectors, aimed at making EU climate neutral by 2050.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>De manera aún más ambiciosa, el Pacto Verde Europeo esboza una serie de iniciativas en todas las áreas para lograr que la UE sea climáticamente neutra de aquí a 2050.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545576-9545626" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545576-9545626</prop><tuv xml:lang = "en-GB">
+				<seg>Renewable energy, together with energy efficiency, is a fundamental energy pillar that will help us reach this ambitious goal.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Las energías renovables, junto con la eficiencia energética, son un pilar energético fundamental que nos ayudará a alcanzar tan ambicioso objetivo.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545577-9545627" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545577-9545627</prop><tuv xml:lang = "en-GB">
+				<seg>As part of this effort, the European Commission will present new measures aimed at embracing technological advance across all sectors of the energy system.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Como parte de este esfuerzo, la Comisión Europea planteará nuevas medidas a fin de incorporar los avances tecnológicos en todos los sectores del sistema energético.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545578-9545628" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545578-9545628</prop><tuv xml:lang = "en-GB">
+				<seg>This initiative for so-called “smart sector integration” will help build the European energy system of the future.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Esta iniciativa para la denominada &quot;integración sectorial inteligente&quot; ayudará a crear el sistema energético europeo del futuro.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545579-9545629" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545579-9545629</prop><tuv xml:lang = "en-GB">
+				<seg>Later this year, the Commission will also launch a new strategy meant to boost offshore wind power.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Este año, la Comisión pondrá en marcha una nueva estrategia destinada a impulsar la energía eólica marina.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545580-9545630" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545580-9545630</prop><tuv xml:lang = "en-GB">
+				<seg>This strategy will address opportunities and challenges, impact on energy grids and markets, management of maritime space and industrial policy dimensions of offshore wind.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>La estrategia abordará las oportunidades y los retos, el impacto en las redes y mercados energéticos, la gestión del espacio marítimo y los aspectos de política industrial de esta fuente energética.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545581-9545631" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545581-9545631</prop><tuv xml:lang = "en-GB">
+				<seg>In addition, EU renewable energy legislation will be reviewed, and where necessary revised, by June 2021.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Además, antes de junio de 2021 se revisará y, en caso necesario, se modificará la legislación europea en materia de energías renovables.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545582-9545632" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545582-9545632</prop><tuv xml:lang = "en-GB">
+				<seg>Benefiting citizens – market uptake</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En beneficio de los ciudadanos: aceptación por el mercado</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545583-9545633" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545583-9545633</prop><tuv xml:lang = "en-GB">
+				<seg>The EU is today a frontrunner on renewable energy and has taken significant measures to boost market uptake.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>La UE es hoy en día líder en energías renovables y ha tomado medidas significativas para impulsar su aceptación por el mercado.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545584-9545634" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545584-9545634</prop><tuv xml:lang = "en-GB">
+				<seg>Ambitious policies, along with research and innovation projects and substantial investments, has contributed to a solid industrial foundation.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Unas políticas ambiciosas, junto con proyectos de investigación e innovación, además de sustanciales inversiones, han contribuido a crear una sólida base industrial.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545585-9545635" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545585-9545635</prop><tuv xml:lang = "en-GB">
+				<seg>This has in turn helped make some renewable energy technologies more easily accessible and affordable for EU citizens. </seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Esto, a su vez, ha permitido que algunas tecnologías de energías renovables sean más fácilmente accesibles y asequibles para los ciudadanos de la Unión. </seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545586-9545636" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545586-9545636</prop><tuv xml:lang = "en-GB">
+				<seg>Solar panels and wind turbines are now a common sight across the EU, which in large part is due to increased market activity.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Hoy en día, los paneles solares y las turbinas eólicas forman parte del paisaje cotidiano, lo que en gran medida se debe a una mayor actividad comercial.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545587-9545637" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545587-9545637</prop><tuv xml:lang = "en-GB">
+				<seg>The cost of solar power production has for instance decreased by 75% between 2009 and 2018, and in 2014, onshore wind became cheaper than coal, gas and nuclear.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Por ejemplo, el coste de la producción de energía solar disminuyó un 75% entre 2009 y 2018, y en 2014, la energía eólica terrestre pasó a ser más barata que el carbón, el gas y la energía nuclear.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545588-9545638" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545588-9545638</prop><tuv xml:lang = "en-GB">
+				<seg>In 2019, EU power production from wind and solar power overtook coal for the first time – meaning that they have become as competitive, or even cheaper, than fossil fuels in most places.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En 2019, la producción de energía eólica y solar de la UE superó por primera vez a la de carbón, lo que supone que en la mayoría de los países ambas fuentes sean tan competitivas, o incluso más baratas, que los combustibles fósiles.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545589-9545639" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545589-9545639</prop><tuv xml:lang = "en-GB">
+				<seg>As the technologies have become more accessible, citizens have also become more empowered.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Al ser más accesibles las tecnologías, se empodera más a los ciudadanos.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545590-9545640" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545590-9545640</prop><tuv xml:lang = "en-GB">
+				<seg>The Clean energy for all Europeans package, and the recast Renewable Energy Directive, makes it easier for citizens to form energy communities, but also to produce, store and sell their own renewable energy.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>El paquete sobre energía limpia para todos los europeos y la refundición de la Directiva sobre fuentes de energía renovables facilitan a los ciudadanos la creación de comunidades energéticas, pero también la producción, almacenamiento y venta de sus propias energías renovables.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545591-9545641" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545591-9545641</prop><tuv xml:lang = "en-GB">
+				<seg>The coming decade is expected to see continued growth in renewables.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>En la próxima década se espera que continúe el crecimiento de las energías renovables.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545592-9545642" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545592-9545642</prop><tuv xml:lang = "en-GB">
+				<seg>The increase in solar power, for example, will mostly be driven by increased self-consumption and more rooftop panel installation.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Por ejemplo, crecerá el autoconsumo y la instalación de paneles solares en los tejados de las casas.</seg>
+				</tuv>
+				</tu>
+  <tu tuid = "9545593-9545643" srclang="en-GB" creationdate="20201123T200613Z" changedate="20201123T200613Z" datatype = "plaintext">
+				<prop type="MyMemory_ID">9545593-9545643</prop><tuv xml:lang = "en-GB">
+				<seg>This puts the EU at a competitive advantage, helping to drive economic growth and create jobs: in 2016, the solar PV industry accounted for 81,000 full-time jobs and it is expected to sustain nearly 175,000 full-time jobs in 2021, with estimates of between 200,000-300,000 jobs in 2030.</seg>
+				</tuv>
+				<tuv xml:lang = "es-ES">
+				<seg>Esto brindará a la UE una ventaja competitiva que la ayudará a impulsar el crecimiento económico y la creación de empleo. En 2016, el sector de la energía solar fotovoltaica representaba 81.000 puestos de trabajo a tiempo completo, que se prevé que aumenten a 175.000 en 2021 y entre 200.000 y 300.000 en 2030.</seg>
+				</tuv>
+				</tu>
+    </body>
+			</tmx>
